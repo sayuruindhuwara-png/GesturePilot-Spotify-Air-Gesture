@@ -33,6 +33,7 @@ py -3.11 -m venv .venv
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 python main.py
+```
 
 If PowerShell blocks activation, run Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass in that terminal, then activate the environment again.
 Press Q or Esc while the preview window is focused to quit. Move the mouse to the top-left corner to trigger PyAutoGUI’s emergency stop.
