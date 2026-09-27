@@ -7,7 +7,6 @@ A Windows-first webcam controller inspired by Spotify Air Gesture. It uses Media
 - **Open palm:** hold your palm open and trace one broad circle with your index fingertip. Clockwise from your viewpoint lowers Windows master volume by 15 percentage points; counterclockwise raises it by 15. Keep your palm open while tracing.
 - **Pinch and drag left:** next track.
 - **Pinch and drag right:** previous track.
-- **Pinch and drag up/down:** scroll up/down.
 - **Victory (index and middle fingers):** toggle Spotify between maximized and restored window sizes.
 - **Open palm without a circle:** neutral and re-arm gesture controls.
 - **Closed fist held briefly:** play/pause. Right-hand fist recognition includes a landmark-based fallback.
