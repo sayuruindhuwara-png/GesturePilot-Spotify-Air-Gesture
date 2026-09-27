@@ -1,0 +1,17 @@
+# Spotify Air Gesture PC — setup requirements
+#
+# Platform: Windows 10/11, 64-bit
+# Python: 3.11 (64-bit) recommended
+# Hardware: working webcam; allow camera access in Windows privacy settings
+# App: Spotify desktop app running for Spotify playback controls
+# Network: internet access on first launch to download the MediaPipe gesture model
+#
+# Install these packages from the project folder with:
+#   python -m pip install -r requirements.txt
+
+mediapipe==0.10.21
+numpy<2
+opencv-contrib-python==4.11.0.86
+PyAutoGUI>=0.9.54,<1
+PyGetWindow>=0.0.9,<1
+pycaw>=20230407

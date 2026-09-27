@@ -1,0 +1,14 @@
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Downloaded MediaPipe model (fetched automatically by main.py)
+assets/*.task
+
+# Local gesture-training data and captures
+trained_gestures.json
+outputs/
+*.mp4
+*.avi

@@ -1,0 +1,16 @@
+{
+  "hold_seconds": 0.55,
+  "swipe_distance": 0.1,
+  "media_gestures": {
+    "Thumb_Up": "like_toggle",
+    "Thumb_Down": "like_toggle",
+    "Closed_Fist": "play_pause",
+    "Victory": "maximize_restore"
+  },
+  "pinch_directions": {
+    "right": "previous_track",
+    "left": "next_track",
+    "up": "scroll_up",
+    "down": "scroll_down"
+  }
+}
